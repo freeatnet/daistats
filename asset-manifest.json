@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/daistats/static/css/main.7bfd0464.chunk.css",
-    "main.js": "/daistats/static/js/main.c2f16a77.chunk.js",
-    "main.js.map": "/daistats/static/js/main.c2f16a77.chunk.js.map",
+    "main.js": "/daistats/static/js/main.855b9a1a.chunk.js",
+    "main.js.map": "/daistats/static/js/main.855b9a1a.chunk.js.map",
     "runtime-main.js": "/daistats/static/js/runtime-main.0c184868.js",
     "runtime-main.js.map": "/daistats/static/js/runtime-main.0c184868.js.map",
     "static/js/2.a50ce048.chunk.js": "/daistats/static/js/2.a50ce048.chunk.js",
     "static/js/2.a50ce048.chunk.js.map": "/daistats/static/js/2.a50ce048.chunk.js.map",
     "index.html": "/daistats/index.html",
-    "precache-manifest.bb90f66e9ab9e98c9c5ec2883d98a8f6.js": "/daistats/precache-manifest.bb90f66e9ab9e98c9c5ec2883d98a8f6.js",
+    "precache-manifest.b3e395a220fc1e64085853866d35351c.js": "/daistats/precache-manifest.b3e395a220fc1e64085853866d35351c.js",
     "service-worker.js": "/daistats/service-worker.js",
     "static/css/main.7bfd0464.chunk.css.map": "/daistats/static/css/main.7bfd0464.chunk.css.map",
     "static/js/2.a50ce048.chunk.js.LICENSE.txt": "/daistats/static/js/2.a50ce048.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0c184868.js",
     "static/js/2.a50ce048.chunk.js",
     "static/css/main.7bfd0464.chunk.css",
-    "static/js/main.c2f16a77.chunk.js"
+    "static/js/main.855b9a1a.chunk.js"
   ]
 }
